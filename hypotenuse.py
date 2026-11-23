@@ -1,4 +1,3 @@
-# مساحة الدائرة
 import math
 
 a = float(input("Enter side A: "))
